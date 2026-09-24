@@ -31,7 +31,7 @@ Ans:Duplicate records were identified using Excel’s Remove Duplicates feature.
 • Merge the "Brand Name" and "Product Name" columns into one column named "Product Brand".						
 
 Ans:”Product ID” was split into “Manufacturing Date” and “Country Code”using “Text to Columns”. 
-“Brand Name” and “Product Name” were merged using the “CONCATENATE” function to create a new “Product Brand” column.								
+“Brand Name” and “Product Name” were merged using the “CONCATENATE” function to create a new “Product Brand” column.	
 									 5)Number Formatting:									
 	• Format the data type of the "Price" column to currency format. 								
 	• Format the "Manufacturing Date" column to display dates in the "DD-MM-YYYY " format.
